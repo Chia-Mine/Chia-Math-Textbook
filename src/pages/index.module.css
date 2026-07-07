@@ -1,0 +1,22 @@
+.heroBanner {
+  padding: 5rem 0;
+  text-align: center;
+}
+
+.buttons {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.introduction {
+  padding: 4rem 0 2rem;
+}
+
+.features {
+  padding: 2rem 0 4rem;
+}
+
+.feature {
+  margin-bottom: 2rem;
+}

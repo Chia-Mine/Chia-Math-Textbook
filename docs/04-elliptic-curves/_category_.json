@@ -1,0 +1,8 @@
+{
+  "label": "Elliptic Curves",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "This chapter introduces elliptic curves as algebraic groups and prepares for the pairing-friendly curves used by BLS signatures."
+  }
+}

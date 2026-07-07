@@ -1,0 +1,8 @@
+{
+  "label": "Preface",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "This preface introduces the goals, prerequisites, notation, and reading paths for the textbook."
+  }
+}

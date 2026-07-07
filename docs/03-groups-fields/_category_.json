@@ -1,0 +1,8 @@
+{
+  "label": "Groups and Fields",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "This chapter develops the algebraic structures that organize elliptic curves, pairings, class groups, and signature schemes."
+  }
+}
