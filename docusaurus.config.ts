@@ -10,10 +10,10 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://chia-mine.github.io',
-  baseUrl: '/chia-math-textbook/',
+  baseUrl: '/Chia-Math-Textbook/',
 
-  organizationName: 'chia-mine',
-  projectName: 'chia-math-textbook',
+  organizationName: 'Chia-Mine',
+  projectName: 'Chia-Math-Textbook',
 
   onBrokenLinks: 'throw',
   markdown: {
